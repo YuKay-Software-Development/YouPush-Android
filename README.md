@@ -1,4 +1,4 @@
-# YouPush-Android
+# YouPush Android
 #### A really usefull app (more documentation will come later) :)
 
 ___
